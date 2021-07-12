@@ -1,1 +1,1 @@
-Diabetes diagnosis with supervised learning. ANN
+Diabetes diagnosis with supervised learning. (Artifical Neural Network)
